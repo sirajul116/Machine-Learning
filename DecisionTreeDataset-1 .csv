@@ -1,0 +1,15 @@
+Day,Temperature,Outlook,Humidity,Windy,Play Golf?
+07-May,hot,sunny,high,0,0
+07-Jun,hot,sunny,high,1,0
+07-Jul,hot,overcast,high,0,1
+07-Sep,cool,rain,normal,0,1
+07-Oct,cool,overcast,normal,1,1
+07-Dec,mild,sunny,high,0,0
+Jul-14,cool,sunny,normal,0,1
+Jul-15,mild,rain,normal,0,1
+Jul-20,mild,sunny,normal,1,1
+Jul-21,mild,overcast,high,1,1
+Jul-22,hot,overcast,normal,0,1
+Jul-23,mild,rain,high,1,0
+Jul-26,cool,rain,normal,1,0
+Jul-30,mild,rain,high,0,1
